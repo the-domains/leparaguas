@@ -1,7 +1,7 @@
 name: Leparaguas
 favicon: null
-layout_spectrum: 0.6076572760939598
-typography_spectrum: 0.687088230624795
+layout_spectrum: 0.84639
+typography_spectrum: 0.62699
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.32867798837833107
+    - '#ffffff'
+    - '#1a6978'
+    - '#6e9a98'
+    - '#103b79'
+    - '#a4c1c7'
+  brandStrength: 0.625
   lightness: 0.05736485938541591
-  saturation: 0.19051334890536964
-  rhythmicContrast: 0.13179239607416093
+  saturation: 0.125
+  rhythmicContrast: 0.25
 purpose: []
