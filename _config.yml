@@ -1,6 +1,6 @@
 name: Leparaguas
 favicon: null
-layout_spectrum: 0.84639
+layout_spectrum: 1
 typography_spectrum: 0.62699
 title: Your Consulting partner
 cta:
@@ -23,7 +23,7 @@ color:
     - '#103b79'
     - '#a4c1c7'
   brandStrength: 0.625
-  lightness: 0.05736485938541591
-  saturation: 0.125
-  rhythmicContrast: 0.25
+  lightness: 0.1875
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
